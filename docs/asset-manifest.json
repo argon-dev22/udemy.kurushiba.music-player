@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/u-music-player-with-react/static/css/main.7876486a.css",
+    "main.js": "/u-music-player-with-react/static/js/main.599b159f.js",
+    "index.html": "/u-music-player-with-react/index.html",
+    "main.7876486a.css.map": "/u-music-player-with-react/static/css/main.7876486a.css.map",
+    "main.599b159f.js.map": "/u-music-player-with-react/static/js/main.599b159f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7876486a.css",
+    "static/js/main.599b159f.js"
+  ]
+}
